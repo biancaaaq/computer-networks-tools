@@ -3,9 +3,8 @@
 This repository contains a collection of advanced networking exercises implemented for the **Computer Networks 2025** university project.  
 Each component simulates real-world security, communication, and network-layer attacks using **Python**, **Docker**, and **Linux tools**.
 
----
 
-## 📁 Contents
+##  Contents
 
 - **DNS Ad Blocker**  
   A DNS server that blocks ad-related domains using a blacklist and returns `0.0.0.0` for blocked queries. Tested locally and on a VPS.
@@ -22,7 +21,7 @@ Each component simulates real-world security, communication, and network-layer a
 - **Traceroute**  
   A custom implementation of the classic `traceroute` utility using increasing TTL and ICMP response handling.
 
----
+
 
 ##  Technologies
 
