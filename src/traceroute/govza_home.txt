@@ -1,0 +1,32 @@
+Traceroute către gov.za
+
+1. 172.31.112.1 → N/A, N/A, N/A
+2. 192.168.100.1 → N/A, N/A, N/A
+3. 10.0.25.81 → N/A, N/A, N/A
+4. 172.19.212.1 → N/A, N/A, N/A
+5. 10.220.184.161 → N/A, N/A, N/A
+6. * → 
+7. * → 
+8. 154.54.38.245 → Bucharest, București, Romania
+9. 130.117.3.137 → Frankfurt am Main, Hesse, Germany
+10. 154.54.59.86 → Vienna, Vienna, Austria
+11. 154.54.58.5 → Vienna, Vienna, Austria
+12. 154.54.62.121 → Munich, Bavaria, Germany
+13. 154.54.62.142 → Amsterdam, North Holland, The Netherlands
+14. 154.54.56.93 → Amsterdam, North Holland, The Netherlands
+15. 154.54.61.254 → London, England, United Kingdom
+16. 149.6.148.134 → London, England, United Kingdom
+17. 168.209.100.215 → Johannesburg, Gauteng, South Africa
+18. 168.209.2.201 → Johannesburg, Gauteng, South Africa
+19. 168.209.135.146 → Johannesburg, Gauteng, South Africa
+20. 168.209.135.141 → Johannesburg, Gauteng, South Africa
+21. 197.97.72.34 → Johannesburg, Gauteng, South Africa
+22. 163.195.3.73 → Cape Town, Western Cape, South Africa
+23. * → 
+24. * → 
+25. * → 
+26. * → 
+27. * → 
+28. * → 
+29. * → 
+30. * → 

@@ -1,0 +1,15 @@
+version: '3'
+services:
+  dns_server:
+#defineste un serviciu numit dns_server
+    image: dns_blocker-dns_server
+#foloseste reteaua din host, are acelasi ip
+    network_mode: host
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./dns_server.py:/app/dns_server.py
+      - ./blacklist.txt:/app/blacklist.txt
+      - ./test.txt:/app/test.txt
+      - ./log_blocari.txt:/app/log_blocari.txt

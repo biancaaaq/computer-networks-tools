@@ -1,0 +1,32 @@
+Traceroute către baidu.cn
+
+1. 172.31.112.1 → N/A, N/A, N/A
+2. 192.168.100.1 → N/A, N/A, N/A
+3. 10.0.25.81 → N/A, N/A, N/A
+4. 10.30.5.65 → N/A, N/A, N/A
+5. 10.220.138.248 → N/A, N/A, N/A
+6. * → 
+7. 213.249.122.17 → Warsaw, Mazovia, Poland
+8. * → 
+9. 212.133.94.190 → Berlin, State of Berlin, Germany
+10. 202.97.83.161 → Beijing, Beijing, China
+11. 202.97.54.53 → Beijing, Beijing, China
+12. 202.97.61.229 → Beijing, Beijing, China
+13. 36.110.245.126 → Beijing, Beijing, China
+14. 36.110.249.70 → Beijing, Beijing, China
+15. * → 
+16. 106.38.212.146 → Beijing, Beijing, China
+17. * → 
+18. * → 
+19. * → 
+20. * → 
+21. * → 
+22. * → 
+23. * → 
+24. * → 
+25. * → 
+26. * → 
+27. * → 
+28. * → 
+29. * → 
+30. * → 

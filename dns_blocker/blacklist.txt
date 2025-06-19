@@ -1,0 +1,11 @@
+ads.google.com
+doubleclick.net
+tracking.facebook.com
+ads.yahoo.com
+cdn.adnxs.com
+analytics.twitter.com
+pagead2.googlesyndication.com
+securepubads.g.doubleclick.net
+adserver.example.com
+pixel.facebook.com
+adservice.google.com

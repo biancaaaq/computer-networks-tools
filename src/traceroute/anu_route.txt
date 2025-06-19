@@ -1,0 +1,17 @@
+Traceroute către anu.edu.au
+
+1. 13.53.0.207 → Stockholm, Stockholm, Sweden
+2. 240.0.16.12 → N/A, N/A, N/A
+3. 242.0.125.163 → N/A, N/A, N/A
+4. 240.3.96.13 → N/A, N/A, N/A
+5. 242.8.133.131 → N/A, N/A, N/A
+6. 99.83.71.200 → Seattle, Washington, United States
+7. 99.83.71.201 → Seattle, Washington, United States
+8. 171.75.8.43 → Frankfurt am Main, Hesse, Germany
+9. 217.163.113.74 → Acton, England, United Kingdom
+10. 113.197.15.11 → Melbourne, Victoria, Australia
+11. 138.44.161.3 → Canberra, Australian Capital Territory, Australia
+12. 150.203.201.5 → Canberra, Australian Capital Territory, Australia
+13. 150.203.201.33 → Canberra, Australian Capital Territory, Australia
+14. 130.56.67.33 → Canberra, Australian Capital Territory, Australia
+15. 130.56.66.249 → Canberra, Australian Capital Territory, Australia

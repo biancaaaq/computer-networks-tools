@@ -1,0 +1,5 @@
+Traceroute către baidu.cn
+
+1. 172.31.112.1 → N/A, N/A, N/A
+2. 10.11.0.1 → N/A, N/A, N/A
+3. 220.181.38.148 → Beijing, Beijing, China

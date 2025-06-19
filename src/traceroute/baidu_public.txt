@@ -1,0 +1,32 @@
+Traceroute către baidu.cn
+
+1. 172.31.112.1 → N/A, N/A, N/A
+2. 192.168.0.1 → N/A, N/A, N/A
+3. 85.204.1.1 → Sector 1, București, Romania
+4. 95.77.36.161 → Craiova, Dolj, Romania
+5. 136.255.248.202 → Bucharest, București, Romania
+6. 195.2.29.1 → Paris, Île-de-France, France
+7. 195.2.27.198 → Paris, Île-de-France, France
+8. 195.2.9.102 → Málaga, Andalusia, Spain
+9. 223.119.65.181 → Kwai Chung, Kwai Tsing, Hong Kong
+10. * → 
+11. 223.120.14.174 → Kwai Chung, Kwai Tsing, Hong Kong
+12. 221.183.55.110 → Guangzhou, Guangdong, China
+13. 221.183.25.201 → Guangzhou, Guangdong, China
+14. 221.183.89.122 → Guangzhou, Guangdong, China
+15. * → 
+16. 39.156.27.1 → Guangzhou, Guangdong, China
+17. * → 
+18. * → 
+19. * → 
+20. * → 
+21. * → 
+22. * → 
+23. * → 
+24. * → 
+25. * → 
+26. * → 
+27. * → 
+28. * → 
+29. * → 
+30. * → 

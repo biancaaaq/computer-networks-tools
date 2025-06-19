@@ -1,0 +1,32 @@
+Traceroute către baidu.cn
+
+1. 13.53.0.203 → Stockholm, Stockholm, Sweden
+2. 240.0.16.14 → N/A, N/A, N/A
+3. 242.0.124.165 → N/A, N/A, N/A
+4. 240.0.96.4 → N/A, N/A, N/A
+5. 242.1.100.35 → N/A, N/A, N/A
+6. 100.100.2.120 → N/A, N/A, N/A
+7. 81.173.22.57 → Frankfurt am Main, Hesse, Germany
+8. 202.97.83.161 → Beijing, Beijing, China
+9. * → 
+10. * → 
+11. 36.110.246.2 → Beijing, Beijing, China
+12. 36.110.245.157 → Beijing, Beijing, China
+13. * → 
+14. 106.38.212.146 → Beijing, Beijing, China
+15. * → 
+16. * → 
+17. * → 
+18. * → 
+19. * → 
+20. * → 
+21. * → 
+22. * → 
+23. * → 
+24. * → 
+25. * → 
+26. * → 
+27. * → 
+28. * → 
+29. * → 
+30. * → 
